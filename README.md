@@ -2,8 +2,6 @@
 WSB Merito - Programowanie zaawansowane
 
 
-![Snake Game](snake_game_screenshot.png)
-
 ## Description
 Snake Game is a simple and classic game where the player controls a snake and tries to eat food while avoiding collisions with the walls and its own tail. The game keeps track of the player's score and displays it when the game is over. The snake grows longer as it eats food, making the game progressively challenging.
 

@@ -1,5 +1,5 @@
 # Snake-Game-App
-WSB Merito - Programowanie zaawansowane
+WSB Merito - Programowanie zaawansowane, Ireneusz Trepka 15392 C6
 
 
 ## Description
